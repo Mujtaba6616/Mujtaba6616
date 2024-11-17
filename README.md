@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mujtaba6616
-- 👀 I’m interested in looking for job/internship.
+- 👀 I’m interested in looking for job/internship as a Computer Science Major.
 - 💞️ I’m looking to collaborate on any Database projects.
   
   
